@@ -21,3 +21,6 @@ Feature engineering refers to the classical feature extraction of images. Featur
 
 From the convolved feature, we apply two dimensionality reduction techniques PCA and LDA as mentioned before.
 
+# Classifiers
+
+The reduced train, test, validation data is applied to a fully-connected network and an SVM. These classifiers are trained and tested to obtain a good accuracy of new painting image.
