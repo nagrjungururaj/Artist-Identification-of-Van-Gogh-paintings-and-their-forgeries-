@@ -17,5 +17,7 @@ Feature engineering refers to the classical feature extraction of images. Featur
 2) Also we have extracted the color features ike Hue and Saturation of the images by tranforming the image in RBG space to HSV space
 3) Also we have split the images into several patches and applied Gabor feature extraction and color feature extraction respectively.
 
+# Dimensionality Reduction 
 
+From the convolved feature, we apply two two dimensionality reduction techniques PCA and LDA as mentioned before.
 
