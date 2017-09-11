@@ -15,8 +15,7 @@ Feature engineering refers to the classical feature extraction of images. Featur
 
 1) We have designed a 2D Gabor filter function which is convolved with the images of our dataset.
 2) Also we have extracted the color features ike Hue and Saturation of the images by tranforming the image in RBG space to HSV space
-
-
+3) Also we have split the images into several patches and applied Gabor feature extraction and color feature extraction respectively.
 
 
 
