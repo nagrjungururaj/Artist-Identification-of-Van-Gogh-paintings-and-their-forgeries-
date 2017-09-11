@@ -19,5 +19,5 @@ Feature engineering refers to the classical feature extraction of images. Featur
 
 # Dimensionality Reduction 
 
-From the convolved feature, we apply two two dimensionality reduction techniques PCA and LDA as mentioned before.
+From the convolved feature, we apply two dimensionality reduction techniques PCA and LDA as mentioned before.
 
