@@ -31,4 +31,4 @@ The reduced train, test, validation data is applied to a fully-connected network
 
 # Comparison of learned features and designed features
 
-We compare the first layer filters learned from the pre-trained VGG network (VGG-M and VGG-F) using the correlation co-efficient metric. Pretrained networks can be downloaded here : http://www.vlfeat.org/matconvnet/pretrained/
+We compare the first layer filters learned from the pre-trained VGG network (VGG-M and VGG-F) and the designed 2D Gabor fliters using the correlation co-efficient metric. Pretrained networks can be downloaded here : http://www.vlfeat.org/matconvnet/pretrained/
