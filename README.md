@@ -14,6 +14,12 @@ Two approaches, feature engineering and feature learning were used to complete t
 
 Download the dataset from here :  https://drive.google.com/drive/folders/0B0U59zN0K2CiTDZjSzNBSGhvRU0?usp=sharing
 
+# Pre-requisites
+
+1) At least Matlab 2014b or higher
+2) Pattern recognition toolbox
+3) Image Processing toolbox
+
 # Feature Engineering 
 Feature engineering refers to the classical feature extraction of images. Feature extraction consists of designing a filter which is convolved with the images to obtain the resulting output images. 
 
