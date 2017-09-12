@@ -12,7 +12,7 @@ Two approaches, feature engineering and feature learning were used to complete t
 
 # Dataset
 
-The link to download the dataset :  https://drive.google.com/drive/folders/0B0U59zN0K2CiTDZjSzNBSGhvRU0?usp=sharing
+Download the dataset from here :  https://drive.google.com/drive/folders/0B0U59zN0K2CiTDZjSzNBSGhvRU0?usp=sharing
 
 # Feature Engineering 
 Feature engineering refers to the classical feature extraction of images. Feature extraction consists of designing a filter which is convolved with the images to obtain the resulting output images. 
