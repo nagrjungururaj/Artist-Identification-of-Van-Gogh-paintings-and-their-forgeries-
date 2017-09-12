@@ -1,9 +1,10 @@
 # Master-Project
 Artist Identification of Van-Gogh paintings and their forgeries 
 
-# Team Members
+# Team Members & Responsibilities
 
-Nagarjun Gururaj, Stanislav Smirnov, Hridkamol Biswas, Muhammed Hassan
+Members: Nagarjun Gururaj, Stanislav Smirnov, Hridkamol Biswas, Muhammed Hassan
+Responsibilities : Nagarjun Gururaj and Hridkamol Biswas (Feature Engineering) , Stanislav Smirnov and Muhammed Hassan (Feature Learning)
 
 # Overview
 This project was conducted at University of Paderborn in the SST group (http://sst.uni-paderborn.de/) under the supervision of Prof. Dr. Peter Schreier. 
