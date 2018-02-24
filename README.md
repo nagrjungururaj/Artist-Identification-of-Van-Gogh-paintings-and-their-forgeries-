@@ -1,5 +1,4 @@
-# Master-Project
-Artist Identification of Van-Gogh paintings and their forgeries 
+# Artist Identification of Van-Gogh paintings and their forgeries 
 
 # Team Members & Responsibilities
 
