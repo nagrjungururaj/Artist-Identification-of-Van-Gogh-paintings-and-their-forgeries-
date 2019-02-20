@@ -1,5 +1,3 @@
-# Artist Identification of Van-Gogh paintings and their forgeries 
-
 # Team Members & Responsibilities
 
 Nagarjun Gururaj (Feature Engineering), Hridkamol Biswas (Feature Engineering), Stanislav Smirnov (Feature Learning), Muhammed Hassan (Feature Learning)
